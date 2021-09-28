@@ -3,6 +3,7 @@
 * Evaluation motion design based on the fugl meyer upperlimb index
 * Communication System among Interface, Robot Arm and Electromyographic Signal Decoding System.
 * Projection arm posture into vitual environment by analysing the position sensor signal.
+* For the detailed video explaination: https://drive.google.com/file/d/1jR6TeNQYdQpFTih8Ad4XyrMqdI7-Qmdr/view?usp=sharing
 
 Overview
 
